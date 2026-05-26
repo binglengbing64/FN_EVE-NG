@@ -49,7 +49,6 @@
 - 详情见 /root/fn-system-status.md
 
 ## 关键文件
-- `/root/eve-ng-install-guide.md` - 完整安装指南
 - `/root/fn-system-status.md` - 原始系统状态报告
 - `/opt/unetlab/html/includes/Slim/Http/Util.php` - PHP 8 兼容修复
 - `/opt/unetlab/html/html5/api/tokens.php` - Guacamole Mock API
