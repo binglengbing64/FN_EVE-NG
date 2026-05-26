@@ -2,7 +2,7 @@
 
 ## 系统概述
 
-- 操作系统：Debian GNU/Linux 12 (bookworm) 基础上运行飞牛 OS
+- 操作系统：Debian GNU/Linux 12
 - 飞牛OS系统版本：fnOS 1.1.18
 - 当前添加：EVE-NG 5.0.1-24 (网络仿真平台)
 - 服务器 IP：192.168.48.192
