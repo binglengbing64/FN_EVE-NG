@@ -10,7 +10,11 @@
 - Web: http://192.168.48.192/
 - 飞牛OS webUI: http://192.168.48.192:5666/
 - 飞牛OS登录: admin / Qwer1234.
-- 
+
+<img width="1920" height="1030" alt="PixPin_2026-05-26_22-09-18" src="https://github.com/user-attachments/assets/2b1eb072-2610-43a1-b841-55e3c6af9699" />
+
+<img width="1920" height="1021" alt="PixPin_2026-05-26_22-09-31" src="https://github.com/user-attachments/assets/8d16b4aa-a486-422b-a660-d69f19613ac0" />
+
 ## 安装的组件
 
 | 组件 | 版本 | 状态 |
