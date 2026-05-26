@@ -45,7 +45,7 @@
 
 ## 共存说明
 
-Apache2 (EVE-NG) 使用端口 80，trim_nginx (飞牛 OS) 使用端口 8000/8001，两个 Web 服务运行在不同端口，互不冲突。
+Apache2 (EVE-NG) 使用端口 80，trim_nginx (飞牛 OS) 使用端口 5666/5667，两个 Web 服务运行在不同端口，互不冲突。
 
 ## Docker 说明
 
