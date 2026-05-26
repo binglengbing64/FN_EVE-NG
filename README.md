@@ -15,6 +15,9 @@
 
 <img width="1920" height="1021" alt="PixPin_2026-05-26_22-09-31" src="https://github.com/user-attachments/assets/8d16b4aa-a486-422b-a660-d69f19613ac0" />
 
+<img width="1920" height="1028" alt="PixPin_2026-05-26_22-11-16" src="https://github.com/user-attachments/assets/7ac986c5-57c2-4b8a-a112-6dbc65d13a4b" />
+
+
 ## 安装的组件
 
 | 组件 | 版本 | 状态 |
